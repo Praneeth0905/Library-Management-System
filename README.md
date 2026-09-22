@@ -7,11 +7,7 @@ The app is built based on the MVC model that allows separating access to the dat
 
 The app uses the Pydantic model for data validation which provides a convenient way to validate data using type hints and provides clear error messages if the data is invalid.
 
-[App link](https://library-management-system.herokuapp.com/)
 
-[SpreadSheet](https://docs.google.com/spreadsheets/d/1guVUVRVMsu2nebKllN6_58nDraMnEftIoTaRtlUnRME/edit?usp=sharing)
-
-![App screenshot](docs/images/supp-images/mockup.png)
 
 ## Table of Contents
 - [**User Experience UX**](#user-experience-ux)
